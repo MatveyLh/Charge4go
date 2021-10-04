@@ -1,0 +1,9 @@
+There were some difficulties in completing the assignment.
+Firstly, there was not enough layout, because when you typeset some task, you always want to be focused on the result.
+There was not enough pagination for the api request, if we want to get the best performance,
+then it would be worth adding. I didn't quite understand how to implement the menu item with the map correctly,
+because it was not visible in the photo, so I brought it to the menu item, I hope I did everything right.
+Since there was no agreement on loading data, I preferred to load everything through the Next Js methods.
+In any case, initially only the first page will be loaded as SSR and all others as SPA.
+
+    Thanks for the opportunity! :)
