@@ -1,0 +1,29 @@
+{
+  "name": "charge4go",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "lint": "next lint"
+  },
+  "engines": {
+    "node": "= 14.15.0"
+  },
+  "dependencies": {
+    "@svgr/webpack": "^5.5.0",
+    "antd": "^4.16.13",
+    "next": "11.1.2",
+    "node-sass": "^6.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-google-maps": "^9.4.5",
+    "sass": "^1.42.1"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "eslint-config-airbnb-base": "^14.2.1"
+  }
+}
